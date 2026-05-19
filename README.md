@@ -67,5 +67,29 @@ edge         Cloudflare (Workers, Durable Objects, Queues, Vectorize, Workflows)
 ---
 
 <div align="center">
-<sub>Self-hosted everything · Arch Linux · Cloudflare edge for what doesn't run at home.</sub>
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="Cloudflare"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=arch" height="50" alt="Arch Linux"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
 </div>
