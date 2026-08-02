@@ -1,6 +1,6 @@
 <div align="center">
 
-**Fran Olivares** — founder of **Olivares AI** · enterprise AI governance · Toledo, Spain
+**Fran Olivares** — founder of **Olivares AI** · enterprise AI governance
 
 [fran.olivares.ai](https://fran.olivares.ai) · [fran.dev](https://fran.dev) · [olivares.ai](https://olivares.ai) · [@olivaresai](https://github.com/olivaresai) · [YouTube](https://www.youtube.com/@franolivares-arch)
 
