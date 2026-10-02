@@ -20,6 +20,7 @@ Integrate, manage and secure AI in your enterprise — **built around Claude and
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1A1A19?style=flat&logo=archlinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1A1A19?style=flat&logo=docker&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-1A1A19?style=flat&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-1A1A19?style=flat&logo=debian&logoColor=white)
 ![SUSE](https://img.shields.io/badge/SUSE-1A1A19?style=flat&logo=suse&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-1A1A19?style=flat&logo=cloudflare&logoColor=white)
