@@ -4,7 +4,7 @@
 
 Founder of [Olivares AI](https://olivares.ai): run, connect and govern AI agents on your own infrastructure.
 
-[olivares.ai](https://olivares.ai) · [olivaresai/olivares](https://github.com/olivaresai/olivares) · [fran.dev](https://fran.dev) · [YouTube](https://www.youtube.com/@fran.dev-arch)
+[olivares.ai](https://olivares.ai) · [olivaresai/olivares](https://github.com/olivaresai/olivares) · [fran.dev](https://fran.dev) · [YouTube](https://www.youtube.com/@fran.dev-olivares)
 
 </div>
 
