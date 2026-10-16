@@ -16,7 +16,7 @@ Founder of [Olivares AI](https://olivares.ai): run, connect and govern AI agents
 - Each session runs confined to its folder, with approvals and a hash-chained audit trail.
 - Open core: AGPL-3.0 core, Apache-2.0 connectors. Business and Enterprise fund the work.
 
-[![Release](https://img.shields.io/github/v/release/olivaresai/olivares?style=flat&labelColor=1A1A19&color=F08000)](https://github.com/olivaresai/olivares/releases)
+[![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Folivaresai%2Folivares%2Freleases%2Flatest&query=%24.tag_name&label=release&style=flat&labelColor=1A1A19&color=F08000)](https://github.com/olivaresai/olivares/releases)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-F08000?style=flat&labelColor=1A1A19)](https://github.com/olivaresai/olivares/blob/main/LICENSE)
 
 <sub>Go · TypeScript · PostgreSQL · SQLite · Linux · Kubernetes</sub>
